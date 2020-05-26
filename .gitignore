@@ -1,0 +1,11 @@
+**/__pycache__
+.vscode/
+.pytest_cache/
+**/.ipynb_checkpoints/
+SimulationResults/
+datasets/data/
+*.pdf
+SampleFeature/*.pdf
+ConsoleOutput/
+nohup.out
+*.txt
